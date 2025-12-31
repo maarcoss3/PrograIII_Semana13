@@ -19,10 +19,13 @@ jobs:
           java-version: '21'
 
       - name: Build JavaDoc with Maven
-        run: mvn -B javadoc:javadoc
+        run: |
+          cd Semana13
+          mvn -B javadoc:javadoc
 
       - name: Copy JavaDoc to /docs
         run: |
           rm -rf docs
           mkdir docs
-          cp -r target/site/apidocs/* docs/
+          cd Semana13
+          cp -r target/site/apidocs/* ../docs/
