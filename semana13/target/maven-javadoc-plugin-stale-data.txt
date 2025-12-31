@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'C:/Users/marco/.m2/repository/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar;C:/Users/marco/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'c:/Users/marco/Desktop/PrograIII_Semana13/semana13/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/marco/Desktop/PrograIII_Semana13/semana13/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'semana13 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'c:/Users/marco/Desktop/PrograIII_Semana13/semana13/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'semana13 1.0-SNAPSHOT API'
+es.usal
+C:\Users\marco\.m2\repository\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar = 1767183466674
+C:\Users\marco\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar = 1767183466685
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\src\main\java = 1767182965924
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\allclasses-index.html = 1767186101630
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\allpackages-index.html = 1767186101638
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\copy.svg = 1767186101684
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\element-list = 1767186101555
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\help-doc.html = 1767186101677
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\index-all.html = 1767186101656
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\index.html = 1767186101656
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\link.svg = 1767186101686
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\member-search-index.js = 1767186101645
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\module-search-index.js = 1767186101640
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\overview-tree.html = 1767186101615
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\package-search-index.js = 1767186101640
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\script.js = 1767186101682
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\search-page.js = 1767186101693
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\search.html = 1767186101656
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\search.js = 1767186101690
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\stylesheet.css = 1767186101681
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\tag-search-index.js = 1767186101645
+c:\Users\marco\Desktop\PrograIII_Semana13\semana13\target\site\apidocs\type-search-index.js = 1767186101645
