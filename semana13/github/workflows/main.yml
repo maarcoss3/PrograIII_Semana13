@@ -18,7 +18,6 @@ jobs:
           distribution: 'temurin'
           java-version: '21'
 
-
       - name: Build JavaDoc with Maven
         run: mvn -B javadoc:javadoc
 
